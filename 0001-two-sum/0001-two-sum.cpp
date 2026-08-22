@@ -6,10 +6,11 @@ public:
         for(int i = 0 ; i < nums.size() ; i++){
             int need = target - nums[i] ;
             if(mp.find(need) != mp.end()){
-              return {mp[need] , i};
+              temp.push_back(mp[need]);
+              temp.push_back(i);
             }
             mp[nums[i]] =i;
         }  
-      return {-1,-1};
+      return temp;
     }
 };
