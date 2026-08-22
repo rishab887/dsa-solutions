@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishab887/DAAA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/rishab887/DAAA/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishab887/DAAA/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rishab887/DAAA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
