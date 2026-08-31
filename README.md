@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishab887/DAAA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/rishab887/DAAA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishab887/DAAA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishab887/DAAA/tree/master/2161-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishab887/DAAA/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
