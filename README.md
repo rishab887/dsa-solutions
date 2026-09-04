@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishab887/DAAA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/rishab887/DAAA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/rishab887/DAAA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishab887/DAAA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishab887/DAAA/tree/master/2161-partition-array-according-to-given-pivot) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rishab887/DAAA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rishab887/DAAA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
