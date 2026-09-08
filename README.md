@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rishab887/DAAA/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishab887/DAAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishab887/DAAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rishab887/DAAA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishab887/DAAA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -40,9 +41,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishab887/DAAA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
