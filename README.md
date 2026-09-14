@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rishab887/DAAA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rishab887/DAAA/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishab887/DAAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/rishab887/DAAA/tree/master/0922-sort-array-by-parity-ii) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rishab887/DAAA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rishab887/DAAA/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishab887/DAAA/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishab887/DAAA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -92,4 +95,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rishab887/DAAA/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
