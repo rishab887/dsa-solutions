@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rishab887/DAAA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishab887/DAAA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rishab887/DAAA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/rishab887/DAAA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/rishab887/DAAA/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishab887/DAAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishab887/DAAA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rishab887/DAAA/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/rishab887/DAAA/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rishab887/DAAA/tree/master/0836-rectangle-overlap) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishab887/DAAA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
