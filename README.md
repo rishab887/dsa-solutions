@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/rishab887/DAAA/tree/master/0836-rectangle-overlap) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rishab887/DAAA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
