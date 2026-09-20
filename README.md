@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/rishab887/DAAA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rishab887/DAAA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rishab887/DAAA/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rishab887/DAAA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishab887/DAAA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rishab887/DAAA/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/rishab887/DAAA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rishab887/DAAA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishab887/DAAA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rishab887/DAAA/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishab887/DAAA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
