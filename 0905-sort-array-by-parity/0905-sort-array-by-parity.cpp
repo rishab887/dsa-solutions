@@ -23,11 +23,13 @@ public:
                 swap(nums[left],nums[right]);
                 right--;
                 left++;
-            }else if(nums[right] % 2 == 0 &&  nums[left] % 2 == 0){
+             }else if(nums[right] % 2 == 0 &&  nums[left] % 2 == 0){
                 left++;
-            }else if(nums[left] % 2 != 0){
+             }
+            else if(nums[left] % 2 != 0){
                 right--;
-            }else{
+            }
+            else{
                 right--;
                 left++;
             }
