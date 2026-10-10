@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishab887/DAAA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rishab887/DAAA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishab887/DAAA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishab887/DAAA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rishab887/DAAA/tree/master/0053-maximum-subarray) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishab887/DAAA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishab887/DAAA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/rishab887/DAAA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishab887/DAAA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishab887/DAAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
