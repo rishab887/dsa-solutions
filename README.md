@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rishab887/DAAA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishab887/DAAA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishab887/DAAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishab887/DAAA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rishab887/DAAA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishab887/DAAA/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishab887/DAAA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishab887/DAAA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rishab887/DAAA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishab887/DAAA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishab887/DAAA/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishab887/DAAA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishab887/DAAA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/rishab887/DAAA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rishab887/DAAA/tree/master/0922-sort-array-by-parity-ii) |
